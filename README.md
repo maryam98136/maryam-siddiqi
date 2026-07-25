@@ -1,32 +1,4 @@
-<!-- ========================================= -->
-<!--          ANIMATED TYPING HEADER           -->
-<!-- ========================================= -->
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00C4FF&center=true&vCenter=true&width=800&lines=Cybersecurity+Enthusiast;SOC+Analyst;DFIR+Learner;Splunk+SIEM;Threat+Hunter;Always+Learning+🚀" />
-</p>
-
-<!-- ========================================= -->
-<!--               PROFILE BADGES              -->
-<!-- ========================================= -->
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
-
-<a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="YOUR_TRYHACKME">
-<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red"/>
-</a>
-
-<img src="https://img.shields.io/badge/Open%20To-Work-success?style=for-the-badge"/>
-
-</p>
-
----
 
 # Hi 👋 I'm Maryam Siddiqi
 
@@ -153,30 +125,6 @@ Performed complete phishing investigations including:
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
 
 </p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&margin-w=10&margin-h=10"/>
-
-</p>
-
----
-
-
 
 # 🌐 Connect With Me
 
