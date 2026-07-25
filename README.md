@@ -1,5 +1,17 @@
 
+<!-- ========================================= -->
+<!--          ANIMATED TYPING HEADER           -->
+<!-- ========================================= -->
 
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00C4FF&center=true&vCenter=true&width=800&lines=Cybersecurity+Enthusiast;SOC+Analyst;DFIR+Learner;Splunk+SIEM;Threat+Hunter;Always+Learning+🚀" />
+</p>
+
+<!-- ========================================= -->
+<!--               PROFILE BADGES              -->
+<!-- ========================================= -->
+
+<p align="center">
 # Hi 👋 I'm Maryam Siddiqi
 
 ### 🛡️ Computer Science Graduate | SOC Analyst | DFIR Enthusiast | Cybersecurity Researcher
@@ -117,15 +129,7 @@ Performed complete phishing investigations including:
 
 ---
 
-# 📊 GitHub Statistics
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
 
 # 🌐 Connect With Me
 
