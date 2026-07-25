@@ -176,15 +176,7 @@ Performed complete phishing investigations including:
 
 ---
 
-# 📈 Contribution Graph
 
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
-
-</p>
-
----
 
 # 🌐 Connect With Me
 
