@@ -1,4 +1,3 @@
-
 <!-- ========================================= -->
 <!--          ANIMATED TYPING HEADER           -->
 <!-- ========================================= -->
@@ -12,6 +11,22 @@
 <!-- ========================================= -->
 
 <p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+
+<a href="https://www.linkedin.com/in/maryam-siddiqi-4992552b8/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="">
+<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red"/>
+</a>
+
+<img src="https://img.shields.io/badge/Open%20To-Work-success?style=for-the-badge"/>
+
+</p>
+
+---
 # Hi 👋 I'm Maryam Siddiqi
 
 ### 🛡️ Computer Science Graduate | SOC Analyst | DFIR Enthusiast | Cybersecurity Researcher
