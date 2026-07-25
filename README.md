@@ -1,22 +1,41 @@
 <!-- ========================================= -->
-<!--          ANIMATED TYPING HEADER           -->
+<!--               HEADER               -->
 <!-- ========================================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00C4FF&center=true&vCenter=true&width=800&lines=Cybersecurity+Enthusiast;SOC+Analyst;DFIR+Learner;Splunk+SIEM;Threat+Hunter;Always+Learning" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,40:0369a1,100:06b6d4&text=Maryam%20Siddiqi&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20%7C%20SOC%20Analyst%20%7C%20DFIR%20Enthusiast&descAlignY=55&descSize=18"/>
 </p>
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1200&color=00D9FF&center=true&vCenter=true&width=750&lines=Cybersecurity+Enthusiast;SOC+Analyst;DFIR+Learner;Splunk+SIEM;Threat+Hunter;Always+Learning" alt="Typing SVG"/>
+</p>
+
+
+<p align="center">
 
 <a href="https://www.linkedin.com/in/maryam-siddiqi-4992552b8/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="">
-<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red"/>
+<a href="https://tryhackme.com/p/maya007363">
+<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
 </a>
 
-<img src="https://img.shields.io/badge/Open%20To-Work-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Open%20To-SOC%20Opportunities-success?style=for-the-badge"/>
 
 </p>
+
+
+<p align="center">
+
+🛡️ Computer Science Graduate  
+<br>
+🔐 Cybersecurity | SOC Operations | DFIR | Threat Detection
+
+</p>
+
+
 
 ---
 # Hi 👋 I'm Maryam Siddiqi
