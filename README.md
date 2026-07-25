@@ -64,10 +64,11 @@ Currently strengthening my skills through:
 
 ---
 
-# 📜 Certifications
+# 📜 Learnings 
 
 - ✅ SOC101-TCM
 - ✅ Cisco Network Basics
+- ✅ Let's defend
 - ✅ TryHackMe Security Labs
 - ✅ Cybersecurity Internship – Prodigy InfoTech
 
