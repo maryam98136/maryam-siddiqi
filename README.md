@@ -31,14 +31,14 @@
 
 🛡️ Computer Science Graduate  
 <br>
-🔐 Cybersecurity | SOC Operations | DFIR | Threat Detection
+ Cybersecurity | SOC Operations | DFIR | Threat Detection
 
 </p>
 
 
 
 ---
-# Hi 👋 I'm Maryam Siddiqi
+# Hi  I'm Maryam Siddiqi
 
 ### 🛡️ Computer Science Graduate | SOC Analyst | DFIR Enthusiast | Cybersecurity Researcher
 
@@ -55,7 +55,7 @@ Currently strengthening my skills through:
 
 ---
 
-# 👨‍💻 About Me
+#  About Me
 
 - 🎓 Computer Science Graduate
 - 🔐 Passionate about Blue Team & Defensive Security
@@ -68,7 +68,7 @@ Currently strengthening my skills through:
 
 ---
 
-# 🛠️ Skills & Technologies
+#  Skills & Technologies
 
 <p align="center">
 
@@ -91,7 +91,7 @@ Currently strengthening my skills through:
 
 ---
 
-# 📚 Currently Learning
+#  Currently Learning
 
 - Splunk Enterprise
 - DFIR
@@ -102,7 +102,7 @@ Currently strengthening my skills through:
 
 ---
 
-# 📜 Learnings 
+#  Learnings 
 
 - ✅ SOC101-TCM
 - ✅ Cisco Network Basics
@@ -120,7 +120,7 @@ AI-powered phishing email detection system using machine learning.
 
 ---
 
-### 🔹 Splunk Home Lab
+###  Splunk Home Lab
 
 Installed and configured Splunk Enterprise.
 
@@ -133,7 +133,7 @@ Performed:
 
 ---
 
-### 🔹 Windows Event Log Analysis
+###  Windows Event Log Analysis
 
 Analyzed:
 
@@ -144,7 +144,7 @@ Analyzed:
 
 ---
 
-### 🔹 Phishing Email Analysis
+###  Phishing Email Analysis
 
 Performed complete phishing investigations including:
 
@@ -157,7 +157,7 @@ Performed complete phishing investigations including:
 
 
 
-# 🌐 Connect With Me
+#  Connect With Me
 
 <p align="center">
 
@@ -177,10 +177,10 @@ Performed complete phishing investigations including:
 
 ---
 
-# 💡 Quote
+#  Quote
 
 > "Security is not a product, but a process." — Bruce Schneier
 
 ---
 
-⭐ Thanks for visiting my profile!
+ Thanks for visiting my profile!
