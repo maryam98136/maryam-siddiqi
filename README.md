@@ -29,7 +29,7 @@
 
 <p align="center">
 
-🛡️ Computer Science Graduate  
+ Computer Science Graduate  
 <br>
  Cybersecurity | SOC Operations | DFIR | Threat Detection
 
@@ -40,31 +40,31 @@
 ---
 # Hi  I'm Maryam Siddiqi
 
-### 🛡️ Computer Science Graduate | SOC Analyst | DFIR Enthusiast | Cybersecurity Researcher
+###  Computer Science Graduate | SOC Analyst | DFIR Enthusiast | Cybersecurity Researcher
 
 I am passionate about **Cybersecurity**, **Threat Detection**, **SOC Operations**, and **Digital Forensics**.
 
 Currently strengthening my skills through:
 
-- 🔍 Splunk SIEM
-- 🛡️ Threat Hunting
-- 📊 Log Analysis
-- 🔐 Windows Security
-- 🌐 Network Security
-- 💻 Python Automation
+-  Splunk SIEM
+-  Threat Hunting
+- Log Analysis
+-  Windows Security
+-  Network Security
+-  Python Automation
 
 ---
 
 #  About Me
 
-- 🎓 Computer Science Graduate
-- 🔐 Passionate about Blue Team & Defensive Security
-- 📊 Learning Splunk SIEM
-- 🛡️ Practicing Threat Detection & Incident Response
-- 🧠 Active on TryHackMe & Let's Defend
-- 🌱 Exploring DFIR & Threat Hunting
-- 💬 Interested in Malware Analysis & Windows Security
-- 🚀 Looking for SOC Analyst Opportunities
+-  Computer Science Graduate
+-  Passionate about Blue Team & Defensive Security
+-  Learning Splunk SIEM
+-  Practicing Threat Detection & Incident Response
+-  Active on TryHackMe & Let's Defend
+- Exploring DFIR & Threat Hunting
+- Interested in Malware Analysis & Windows Security
+- Looking for SOC Analyst Opportunities
 
 ---
 
@@ -104,17 +104,17 @@ Currently strengthening my skills through:
 
 #  Learnings 
 
-- ✅ SOC101-TCM
-- ✅ Cisco Network Basics
-- ✅ Let's defend
-- ✅ TryHackMe Security Labs
-- ✅ Cybersecurity Internship – Prodigy InfoTech
+- SOC101-TCM
+- Cisco Network Basics
+-  Let's defend
+-  TryHackMe Security Labs
+-  Cybersecurity Internship – Prodigy InfoTech
 
 ---
 
-# 🚀 Featured Projects
+#  Featured Projects
 
-### 🔹 AI PhishGuard
+### AI PhishGuard
 
 AI-powered phishing email detection system using machine learning.
 
